@@ -697,6 +697,7 @@ img{
 .services__title{
     font-size: var(--h3-font-size);
     margin-bottom: var(--mb-1);
+    margin-left: -1rem;
     font-weight: var(--font-medium);
 }
 
